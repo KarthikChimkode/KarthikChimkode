@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech & Toys I play with
-`Python` • `PyTorch` • `TensorFlow` • `scikit-learn` • `Pandas` • `NumPy` • `Jupyter`  
+`Python` • `PyTorch` • `TensorFlow` • `scikit-learn` • `Pandas` • `NumPy` • `Jupyter` • `LLMS` • `GENAI` • `RAG`
 Also dabbling with cloud ☁️ and backend frameworks.  
 
 ---
@@ -32,6 +32,3 @@ Also dabbling with cloud ☁️ and backend frameworks.
 ### 🌐 Around the web
 [LinkedIn](https://www.linkedin.com/in/karthik-chimkode) • [GitHub](https://github.com/KarthikChimkode)  
 
----
-
-✨ *Fun fact:* My notebooks usually have more comments than code lines (helps future-me a lot 😅)  
