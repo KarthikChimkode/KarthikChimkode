@@ -30,5 +30,5 @@ Also dabbling with cloud ☁️ and backend frameworks.
 ---
 
 ### 🌐 Around the web
-[LinkedIn](www.linkedin.com/in/karthik-chimkode-794389220) • [GitHub](https://github.com/KarthikChimkode)  
+[LinkedIn]((https://www.linkedin.com/in/karthik-chimkode-794389220) • [GitHub](https://github.com/KarthikChimkode)  
 
