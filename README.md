@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I’m **Karthik Chimkode** 👋</h1>
+<h1 align="center">Hi, I’m Karthik </h1>
 <p align="center">
   AI / ML Engineer | Data Enthusiast | Building intelligent systems  
 </p>
