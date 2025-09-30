@@ -17,7 +17,7 @@ Also dabbling with cloud ☁️ and backend frameworks.
 
 ---
 
-### 🔬 Some Cool Stuff I Built
+### 🔬 Stuff I Built
 - 🚗 [Car-sales-Prediction](https://github.com/KarthikChimkode/Car-sales-Prediciton) → Forecasting trends with data  
 - ✍️ [flowscribe](https://github.com/KarthikChimkode/flowscribe) → Inline AI code suggestions (work in progress!)  
 
