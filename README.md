@@ -25,6 +25,7 @@ Also dabbling with cloud ☁️ and backend frameworks.
 
 ### 📊 My GitHub Vibes
 ![Stats](https://github-readme-stats.vercel.app/api?username=KarthikChimkode&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikChimkode&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarthikChimkode&theme=dark)  
 
 ---
