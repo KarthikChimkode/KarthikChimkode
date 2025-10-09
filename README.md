@@ -10,8 +10,8 @@
 - 🧠 Exploring ML, AI, and how to make models actually useful in real life  
 - 🔨 Building small projects around data prediction, code automation, and AI tools  
 - 🚀 Currently hacking on [flowscribe](https://github.com/KarthikChimkode/flowscribe) — an AI-assisted code editor  
-- ☕ Always up for a chat about Python, Java, or research papers  
-
+- ☕ Always up for a chat about Python, Java, or research papers
+  
 ---
 
 ### 🛠️ Tech & Toys I play with
@@ -50,5 +50,5 @@
 ---
 
 ### 🌐 Around the web
-[LinkedIn](https://www.linkedin.com/in/karthik-chimkode-794389220) • [GitHub](https://github.com/KarthikChimkode)  
+[LinkedIn](https://www.linkedin.com/in/karthik-chimkode-794389220) • [GitHub](https://github.com/KarthikChimkode) • [email](mailto:karthikchimkode@gmail.com)
 
