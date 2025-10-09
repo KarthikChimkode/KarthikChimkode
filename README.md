@@ -25,6 +25,14 @@ Also dabbling with cloud ☁️ and backend frameworks.
 
 ### 📊 My GitHub Vibes
 ![Stats](https://github-readme-stats.vercel.app/api?username=KarthikChimkode&show_icons=true&theme=radical)  
+![Tech Stack](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Python','JavaScript','HTML','CSS','React'],
+    datasets:[{data:[40,25,10,10,15]}]
+  }
+})
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikChimkode&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarthikChimkode&theme=dark)  
 
